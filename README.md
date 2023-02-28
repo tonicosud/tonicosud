@@ -6,8 +6,8 @@
 <br>
 <div>
   <a href="https://github.com/tonicosud">
-  <img  width="42%"  src="https://github-readme-stats-9574dc8vp-tonicosud.vercel.app/api?username=tonicosud&theme=tokyonight&show_icons=true&include_all_commits=true&count_private=true">
-  <img width="50%" src="https://github-readme-stats-9574dc8vp-tonicosud.vercel.app/api/top-langs/?username=tonicosud&layout=compact&langs_count=16&theme=tokyonight">
+  <img  width="42%"  src="https://github-readme-stats-sk3i-exzdduij6-tonicosud.vercel.app/api?username=tonicosud&theme=tokyonight&show_icons=true&include_all_commits=true&count_private=true">
+  <img width="50%" src="https://github-readme-stats-sk3i-exzdduij6-tonicosud.vercel.app/api/top-langs/?username=tonicosud&layout=compact&langs_count=16&theme=tokyonight">
 </div>
 
 <br>
