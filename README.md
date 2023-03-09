@@ -4,15 +4,13 @@
 - 🌱 Estou cursando o 4º ano de Engenharia de Computação na UNIVESP
 - ⚡  Meu maior interesse está no desenvolvimento Mobile e UX/UI
 <br>
-<div>
-  <a href="https://github.com/tonicosud">
-  <img height="180em" width="45%" src="https://github-readme-stats-mp9sfpoy3-tonicosud.vercel.app/api/top-langs/?username=tonicosud&layout=compact&langs_count=16&theme=tokyonight">
-  <img  height="180em" width="45%" src="https://github-readme-stats-mp9sfpoy3-tonicosud.vercel.app/api?username=tonicosud&theme=tokyonight&show_icons=true&include_all_commits=true&count_private=true">
   
+<div>
+<a href="https://github.com/tonicosud">
+<img height="180em" src="https://github-readme-stats-mp9sfpoy3-tonicosud.vercel.app/api?username=tonicosud&theme=tokyonight&show_icons=true&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats-mp9sfpoy3-tonicosud.vercel.app/api/top-langs/?username=tonicosud&layout=compact&langs_count=16&theme=tokyonight"/>
 </div>
   
-
-
 <br>
 <br>
 <h2 align="left"> O que estou estudando atualmente</h2>
