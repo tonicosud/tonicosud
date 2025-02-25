@@ -1,8 +1,8 @@
 ### Olá, Meu nome é Antonio e adoro tecnologia!
 
 
-- 🌱 Estou cursando o 4º ano de Engenharia de Computação na UNIVESP
-- ⚡  Meu maior interesse está no desenvolvimento Mobile e UX/UI
+- 🌱  Formado em Engenharia da computação na UNIVESP em dez/2024
+- ⚡  Meu maior interesse está no desenvolvimento Mobile
 <br>
   
 <div>
